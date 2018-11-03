@@ -13,4 +13,5 @@ All the data needed in the project can be found in [mledoze - countries](https:/
 
 Here is what it looks like:
 
-![example gif]()
+![example gif 1](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview1.gif)
+![example gif 2](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview2.gif)
