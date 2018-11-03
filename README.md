@@ -9,3 +9,8 @@ In addition the resources found in [littlemarc2011 - FlutterTodo](https://github
 For help getting started with Flutter, view our online [Flutter documentation](https://flutter.io/).
 
 All the data needed in the project can be found in [mledoze - countries](https://github.com/mledoze/countries).
+
+
+Here is what it looks like:
+
+![example gif]()
