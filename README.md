@@ -19,3 +19,9 @@ Here is what it looks like:
 
 ![example gif 1](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview1.gif)
 ![example gif 2](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview2.gif)
+
+## Useful tools
+
+JSON editor: https://jsoneditoronline.org/
+JSON transform: https://konklone.io/json/
+Color picker: https://color.adobe.com/es/
