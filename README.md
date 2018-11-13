@@ -23,5 +23,7 @@ Here is what it looks like:
 ## Useful tools
 
 JSON editor: https://jsoneditoronline.org/
+
 JSON transform: https://konklone.io/json/
+
 Color picker: https://color.adobe.com/es/
