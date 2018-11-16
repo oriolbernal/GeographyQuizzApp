@@ -4,11 +4,11 @@ Mobile app build with Flutter that allows the user to answer geography questions
 ## Getting Started
 The project has been inspired by the following resources:
 
-This [tutorial](https://youtu.be/jBBl1tYkUnE) and its github repo from [bramvbilsen - Flutter-Quiz-Preview-App](https://github.com/bramvbilsen/Flutter-Quiz-Preview-App).
+* This [tutorial](https://youtu.be/jBBl1tYkUnE) and its github repo from [bramvbilsen - Flutter-Quiz-Preview-App](https://github.com/bramvbilsen/Flutter-Quiz-Preview-App).
 
-In addition the resources found in [littlemarc2011 - FlutterTodo](https://github.com/littlemarc2011/FlutterTodo) have also been useful to build the UI.
+* In addition the resources found in [littlemarc2011 - FlutterTodo](https://github.com/littlemarc2011/FlutterTodo) have also been useful to build the UI.
 
-For help getting started with Flutter, view our online [Flutter documentation](https://flutter.io/).
+* For help getting started with Flutter, view our online [Flutter documentation](https://flutter.io/).
 
 ## Data
 
