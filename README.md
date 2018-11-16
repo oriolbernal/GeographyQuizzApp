@@ -19,6 +19,7 @@ Here is what it looks like:
 
 ![example gif 1](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview1.gif)
 ![example gif 2](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview2.gif)
+![example gif 3](https://github.com/oriolbernal/GeographyQuizzApp/blob/master/examples/preview3.gif)
 
 ## Useful tools
 
