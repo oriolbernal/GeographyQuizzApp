@@ -1,5 +1,5 @@
 # GeographyQuizzApp
-Mobile app build with Flutter that allows the user to answer geography questions.
+Mobile app build with Flutter that asks the user geography questions.
 
 ## Getting Started
 The project has been inspired by the following resources:
